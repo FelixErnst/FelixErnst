@@ -35,7 +35,7 @@
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | [_Structstrings_](https://github.com/FelixErnst/Structstrings) | [![](http://bioconductor.org/shields/build/devel/bioc/Structstrings.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/Structstrings) |[![](http://bioconductor.org/shields/build/release/bioc/Structstrings.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/Structstrings) |[![](https://github.com/FelixErnst/Structstrings/workflows/R-CMD-check/badge.svg)](https://github.com/FelixErnst/Structstrings/actions?query=workflow:R-CMD-check)  |
 
-## Other packages involved in
+### Other packages involved in
 
 | Package | BioC-devel | BioC-release | GitHub |
 |:----------------:|:----------------:|:----------------:|:----------------:|
