@@ -41,7 +41,7 @@
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | [_TreeSummarizedExperiment_](https://github.com/fionarhuang/TreeSummarizedExperiment) | [![](http://bioconductor.org/shields/build/devel/bioc/TreeSummarizedExperiment.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TreeSummarizedExperiment) |[![](http://bioconductor.org/shields/build/release/bioc/TreeSummarizedExperiment.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TreeSummarizedExperiment) |   |
 
-## as a Maintainer
+## [R](https://cran.r-project.org) contributions as a Maintainer
 
 | Package | CRAN | GitHub |
 |:----------------:|:----------------:|:----------------:|
