@@ -1,3 +1,4 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=FelixErnst&show_icons=true)
 
 ## [R/Bioc](https://bioconductor.org) contributions
 
