@@ -6,8 +6,8 @@
 
 | Package | BioC-devel | BioC-release | GitHub |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| [_mia_](https://github.com/FelixErnst/mia) |   |   |[![](https://github.com/FelixErnst/mia/workflows/R-CMD-check-bioc-devel/badge.svg)](https://github.com/FelixErnst/mia/actions?query=workflow:R-CMD-check-bioc-devel) |
-| [_miaViz_](https://github.com/microbiome/miaViz) |   |   |[![](https://github.com/microbiome/miaViz/workflows/R-CMD-check-bioc-devel/badge.svg)](https://github.com/microbiome/miaViz/actions?query=workflow:R-CMD-check-bioc-devel) |
+| [_mia_](https://github.com/FelixErnst/mia) | [![](http://bioconductor.org/shields/build/devel/bioc/mia.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/mia)  | [![](http://bioconductor.org/shields/build/release/bioc/mia.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/mia) | [![](https://github.com/FelixErnst/mia/workflows/R-CMD-check-bioc-devel/badge.svg)](https://github.com/FelixErnst/mia/actions?query=workflow:R-CMD-check-bioc-devel) |
+| [_miaViz_](https://github.com/microbiome/miaViz) | [![](http://bioconductor.org/shields/build/devel/bioc/miaViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaViz)  | [![](http://bioconductor.org/shields/build/release/bioc/miaViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaViz) |[![](https://github.com/microbiome/miaViz/workflows/R-CMD-check-bioc-devel/badge.svg)](https://github.com/microbiome/miaViz/actions?query=workflow:R-CMD-check-bioc-devel) |
 
 ### RNA modifications
 
